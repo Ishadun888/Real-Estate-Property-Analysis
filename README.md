@@ -44,7 +44,7 @@ The analysis includes the following key tasks:
 
 ## 🛠 Tools & Technologies
 
-- **Tableau Desktop** for creating visualizations  
+- **PowerBI** for creating visualizations  
 - **Excel/CSV** as the data source  
 - Basic **Table Calculations** (e.g., Percent of Total)  
 - Calculated Fields & Groups for price segmentation  
